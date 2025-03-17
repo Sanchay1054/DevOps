@@ -1,0 +1,6 @@
+/.mvn
+/my-web
+/src
+/target
+/Dockerfile
+/pom.xml
